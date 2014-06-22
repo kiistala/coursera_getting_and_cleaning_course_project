@@ -10,12 +10,12 @@ activity
 --------
 
 Activity that the person was doing, here are the possible values:
-	WALKING
-	WALKING_UPSTAIRS
-	WALKING_DOWNSTAIRS
-	SITTING
-	STANDING
-	LAYING
+    WALKING
+    WALKING_UPSTAIRS
+    WALKING_DOWNSTAIRS
+    SITTING
+    STANDING
+    LAYING
 
 Averages of Measurement variables
 ---------------------------------
