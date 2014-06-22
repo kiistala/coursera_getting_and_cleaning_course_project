@@ -9,19 +9,17 @@ The person doing the activity was given an identifier ranging from 1 to 30.
 activity
 --------
 
-Activity that the person was doing:
- WALKING
- WALKING_UPSTAIRS
- WALKING_DOWNSTAIRS
- SITTING
- STANDING
- LAYING
+Activity that the person was doing, here are the possible values:
+	WALKING
+	WALKING_UPSTAIRS
+	WALKING_DOWNSTAIRS
+	SITTING
+	STANDING
+	LAYING
 
 Averages of Measurement variables
 ---------------------------------
 
-* subject
-* activity
 * tBodyAcc-mean()-X
 * tBodyAcc-mean()-Y
 * tBodyAcc-mean()-Z
